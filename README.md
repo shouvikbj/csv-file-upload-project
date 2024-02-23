@@ -68,27 +68,49 @@ To run the project locally, follow these steps:
 The project follows a standard folder structure:
 
 csv-file-upload-project/
+
 |- client/
+
 | |- index.html
+
 | |- script.js
+
 | |- styles.css
+
 |
+
 |- server/
+
 | |- controllers/
+
 | | |- dataController.js
+
 | | |- uploadController.js
+
 | |
+
 | |- models/
+
 | | |- File.js
+
 | |
+
 | |- routes/
+
 | | |- index.js
+
 | |
+
 | |- uploads/
+
 |
+
 |- package.json
+
 |- server.js
+
 |- README.md
+
 
 
 ## Contributing
